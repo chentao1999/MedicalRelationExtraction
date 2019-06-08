@@ -38,9 +38,9 @@ The depository support training and testing BERT-CNN model on three medical rela
 
 ## 2) Download pre-trained BERT model.
 
-    Download uncased_L-12_H-768_A-12 and chinese_L-12_H-768_A-12 BERT models from https://github.com/google-research/bert. 
+Download uncased_L-12_H-768_A-12 and chinese_L-12_H-768_A-12 BERT models from https://github.com/google-research/bert. 
     
-    Unzip uncased_L-12_H-768_A-12.zip and chinese_L-12_H-768_A-12.zip in folder ./pretrained_bert_model.
+Unzip uncased_L-12_H-768_A-12.zip and chinese_L-12_H-768_A-12.zip in folder ./pretrained_bert_model.
 
 ## 3) Run  
 
