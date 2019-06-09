@@ -20,17 +20,17 @@ The depository support training and testing BERT-CNN model on three medical rela
 
 # Usage
 ## 1) Download the data above. 
-    For BC5CDR corpus, unzip CDR_Data.zip in ./corpus/BC5CDR. The files in this folder is like this:
+    For BC5CDR corpus, unzip CDR_Data.zip in ./corpus/BC5CDR. The files in this folder are like this:
 
 ![](img/folder_corpus_BC5CDR.png)
 
-    For TCM corpus, unzip TCMRelationExtraction.zip in ./corpus/TCM. The files in this folder is like this:
+    For TCM corpus, unzip TCMRelationExtraction.zip in ./corpus/TCM. The files in this folder are like this:
 
 ![](img/folder_corpus_TCM.png)
 
     For i2b2 temporal corpus, unzip 2012-07-15.original-annotation.release.tar.gz and 2012-08-23.test-data.groundtruth.tar.gz in ./corpus/i2b2. 
     
-    The files in this folder is like this:
+    The files in this folder are like this:
 
 <center>
 <img src="img/folder_corpus_i2b2.png" width="60%" height="60%" />
